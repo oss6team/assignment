@@ -1,3 +1,11 @@
-# assignment <!--유제승-->
-오픈소스소프트웨어 과제 
-# 헬로우
+<!-- 재설정하기 -->
+# assignment 
+
+##### 2022. second semester OSS TEAM 🖊
+---
+##### - professor's class contents
+- professor GITHUB[PGIT]
+[PGIT]:https://github.com/ai7dnn/OSS-lect
+
+
+
