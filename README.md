@@ -5,7 +5,7 @@
 ---
 ##### - professor's class contents
 professor GITHUB[PGIT]
-[PGIT]: https://github.com/ai7dnn/OSS-lect
+[PGIT]: (https://github.com/ai7dnn/OSS-lect)
 
 
 
