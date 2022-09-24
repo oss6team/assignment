@@ -4,7 +4,7 @@
 #### 2022. second semester OSS TEAM 🖊
 ---
 ##### - professor's class contents
-###### professor GITHUB : [GITHUB : OSS-lect](https://github.com/ai7dnn/OSS-lect)
+###### professor GITHUB : [OSS-lect](https://github.com/ai7dnn/OSS-lect)
 
 
 
