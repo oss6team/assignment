@@ -34,7 +34,12 @@
 
  [진정한 오픈소스 소프트웨어의 가치](https://www.comworld.co.kr/news/articleView.html?idxno=50514)
  <br>
- [오픈소스소프트웨어 나무위키](https://namu.wiki/w/오픈%20소스)
+ [오픈소스 소프트웨어 나무위키](https://namu.wiki/w/오픈%20소스)
  <br>
- 
+ [오픈소스 소프트웨어 역사](https://www.nepla.net/post/오픈소스-소프트웨어의-역사)
+ <br>
+ [오픈소스 소프트웨어 현황](https://www.kc-ml2.com/posts/blog_OSSguide)
+ <br>
+ [오픈소스 소프트웨어](http://www.opennaru.com/cloud/opensource-software/)
+
 
