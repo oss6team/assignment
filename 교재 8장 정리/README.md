@@ -16,6 +16,8 @@
 
 - 병합 방식
 
+<br>
+
 ### [02. Fast-Forward](https://github.com/oss6team/assignment/blob/main/%EA%B5%90%EC%9E%AC%208%EC%9E%A5%20%EC%A0%95%EB%A6%AC/2.%20Fast-Forwad.md)
 
 - 브랜치 생성과 수정 작업
@@ -24,17 +26,23 @@
 
 - Fast-Forward 병합 적용
 
+<br>
+
 ### [03. 3-way](https://github.com/oss6team/assignment/blob/main/%EA%B5%90%EC%9E%AC%208%EC%9E%A5%20%EC%A0%95%EB%A6%AC/3.%203-way.md)
 
 - 브랜치 병합
 
 - 공통 조상 확인하기
 
+<br>
+
 ### [04. Delete & Complicit](https://github.com/oss6team/assignment/blob/main/%EA%B5%90%EC%9E%AC%208%EC%9E%A5%20%EC%A0%95%EB%A6%AC/4.%20Delete%26Complicit.md)
 
 - 브랜치 삭제
 
 - 브랜치 충돌 및 해결
+
+<br>
 
 ### [05 - 1. Rebase 01](https://github.com/oss6team/assignment/blob/main/%EA%B5%90%EC%9E%AC%208%EC%9E%A5%20%EC%A0%95%EB%A6%AC/5-1.%20Rebase%2001.md)
 
